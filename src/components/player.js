@@ -1,3 +1,5 @@
+import React from "react";
+
 function Player() {
   return (
     <article className="Player">
