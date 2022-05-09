@@ -1,5 +1,5 @@
 import React from "react";
-import Player from "./player";
+import Player from "./Player";
 
 function PlayerList() {
   return (
